@@ -1,7 +1,5 @@
 # API DOC
 
-# API DOC
-
 ## Register User
 
 Endpoint : POST /api/users
